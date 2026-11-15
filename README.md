@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="assets/panda-animated.svg" width="220" alt="Panda.fun mascot gently floating" />
+  <img src="https://raw.githubusercontent.com/titan717/titan717/main/assets/panda.webp" width="220" alt="Panda.fun mascot gently floating" />
   <h1>TITAN717</h1>
   <p><sub>Building useful things. Polishing the details.</sub></p>
   <p>
