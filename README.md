@@ -1,81 +1,67 @@
 <!--
-  Profile README for titan717.
-  Visual direction: midnight ink, soft violet, a little playful Panda energy.
+  TITAN717 · profile
+  Quietly building things, with a little panda energy.
 -->
 
 <div align="center">
-  <img src="assets/hero.svg" alt="TITAN717 — making things that feel right" width="100%" />
-
+  <img src="assets/panda.webp" width="220" alt="Panda.fun mascot" />
+  <h1>TITAN717</h1>
+  <p><sub>Building useful things. Polishing the details.</sub></p>
   <p>
-    <a href="https://github.com/titan717?tab=repositories">projects</a>
-    &nbsp;·&nbsp;
     <a href="https://github.com/titan717/Panda.fun">Panda.fun</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/titan717/titanembed">Titan Embed</a>
+    <a href="https://github.com/titan717?tab=repositories">Projects</a>
   </p>
 </div>
 
 ---
 
-I like building products where the details matter — the little transitions, the awkward edge cases, the way an interface feels with a TV remote in your hand.
+I’m an independent developer who enjoys making apps feel considered — from the way a screen responds to a remote, to the little details that make a product pleasant to use.
 
-Most of my work sits around apps, playback, and the systems behind them. I tend to build, test, pull things apart, and polish them until they feel right.
+Most of my time goes into **Panda.fun** and the tools around it.
 
-## The big one at the moment
+## 🐼 Panda.fun
 
-<div align="center">
-  <a href="https://github.com/titan717/Panda.fun">
-    <img src="https://raw.githubusercontent.com/titan717/Panda.fun/main/public/pwa-512x512.png" width="148" alt="Panda.fun app icon" />
-  </a>
-  <br/>
-  <strong><a href="https://github.com/titan717/Panda.fun">Panda.fun</a></strong>
-  <br/>
-  <sub>A little panda, a lot of engineering.</sub>
-</div>
+<a href="https://github.com/titan717/Panda.fun">
+  <img align="right" src="https://raw.githubusercontent.com/titan717/Panda.fun/main/public/pwa-192x192.png" width="76" alt="Panda.fun app icon" />
+</a>
 
-Panda.fun is an entertainment app for **Android TV, phones, tablets, and the web**. One codebase adapts to touch or a D-pad, with a dedicated TV experience rather than a stretched mobile layout.
+An entertainment app built for **Android TV, mobile, and web**. The goal is a consistent experience that still feels native to each screen — D-pad on the TV, touch on a phone.
 
-A few things I care about in it:
-- TV navigation that feels natural with a remote
-- Mobile layouts that feel made for touch
-- A player experience that remembers where you left off
-- Profiles, watch lists, discovery, and the small bits of polish around them
+- TV-first navigation and layouts
+- Mobile and browser experiences
+- Profiles, discovery, and watch progress
+- A player experience designed around the device
 
 <div align="center">
   <a href="https://github.com/titan717/Panda.fun">
-    <img src="https://raw.githubusercontent.com/titan717/Panda.fun/main/src/landing/shots/tv-home.webp" width="48%" alt="Panda.fun TV home screen" />
+    <img src="https://raw.githubusercontent.com/titan717/Panda.fun/main/src/landing/shots/tv-home.webp" width="48%" alt="Panda.fun on TV" />
   </a>
   <a href="https://github.com/titan717/Panda.fun">
-    <img src="https://raw.githubusercontent.com/titan717/Panda.fun/main/src/landing/shots/m-home.webp" width="48%" alt="Panda.fun mobile home screen" />
+    <img src="https://raw.githubusercontent.com/titan717/Panda.fun/main/src/landing/shots/m-home.webp" width="48%" alt="Panda.fun on mobile" />
   </a>
-  <br/>
-  <sub>TV and mobile — same product, different ways to use it.</sub>
 </div>
 
-## Other things on my workbench
+## A few other projects
 
-| Project | What it is |
+| Project | |
 |:--|:--|
-| [Titan Embed](https://github.com/titan717/titanembed) | An adaptive video player with a remote-first TV interface and a touch-first mobile player. |
-| [MovieAPI](https://github.com/titan717/movieapi) | The service layer behind Panda.fun — metadata, discovery, trailers, and playback integration. |
-| [ANIMORA](https://github.com/titan717/titan717.github.io) | An anime and manga discovery interface. |
-| [InvStock](https://github.com/titan717/invstock) | A stock-market simulator. |
-| [ReAnime.to API](https://github.com/titan717/ReAnime.to-API) | An API project for ReAnime.to. |
+| [Titan Embed](https://github.com/titan717/titanembed) | Adaptive video player for TV and mobile |
+| [MovieAPI](https://github.com/titan717/movieapi) | API and service layer for entertainment apps |
+| [ANIMORA](https://github.com/titan717/titan717.github.io) | Anime and manga discovery |
+| [InvStock](https://github.com/titan717/invstock) | Stock-market simulator |
+| [ReAnime.to API](https://github.com/titan717/ReAnime.to-API) | API project |
 
-## Tools I reach for
+## Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,kotlin,androidstudio,html,css,git,github,vscode&theme=dark" alt="React, TypeScript, JavaScript, Node.js, Kotlin, Android Studio, HTML, CSS, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,kotlin,androidstudio,html,css,git,github,vscode&theme=dark" alt="Technologies and tools" />
 </div>
-
-I work across **React, TypeScript, JavaScript, Node.js, and Kotlin**, depending on what the project needs.
 
 ---
 
 <div align="center">
-  <img src="assets/divider.svg" width="72%" alt="" />
-  <br/>
-  <sub>Thanks for stopping by. Have a lovely day. 🐼</sub>
-  <br/><br/>
+  <img src="assets/divider.svg" width="64%" alt="" />
+  <p><sub>Thanks for stopping by. 🐼</sub></p>
   <a href="https://github.com/titan717">github.com/titan717</a>
 </div>
