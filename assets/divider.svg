@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="36" viewBox="0 0 900 36">
+<defs><linearGradient id="g"><stop stop-color="#7c3aed" stop-opacity="0"/><stop offset=".5" stop-color="#c084fc"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 18H900" stroke="url(#g)" stroke-width="2" stroke-dasharray="12 9"><animate attributeName="stroke-dashoffset" from="0" to="-84" dur="7s" repeatCount="indefinite"/></path>
+<circle cx="450" cy="18" r="4" fill="#e9d5ff"><animate attributeName="r" values="3;5;3" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;1;.6" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>
